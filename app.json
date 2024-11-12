@@ -27,7 +27,22 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-secure-store",
+      "expo-image-picker",
+      "expo-camera",
+      "expo-location",
+      "expo-background-fetch",
+      "expo-updates",
+      "expo-file-system",
+      "expo-calendar",
+      "expo-notifications",
+      "expo-contacts",
+      "expo-media-library",
+      "expo-tracking-transparency",
+      "expo-apple-authentication",
+      "expo-localization",
+      "expo-local-authentication"
     ],
     "experiments": {
       "typedRoutes": true
